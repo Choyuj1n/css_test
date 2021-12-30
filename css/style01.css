@@ -1,0 +1,15 @@
+/* chapter7 css파일*/
+
+h1 {
+    background-color:pink;
+}
+
+#blue {
+    color:white;
+    background-color:blue;
+}
+
+body {
+    background-image:url("../img/narrow_bg.png");
+    background-repeat:repeat-X;
+}
